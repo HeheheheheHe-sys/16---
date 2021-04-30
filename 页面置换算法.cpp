@@ -17,6 +17,7 @@ public class OPTTest {
 	public static void main(String[] args) {
 		OPT opt = new OPT("E:\\java\\io_copy\\opt.txt");
 		opt.algorithm();
+		system.out.println(“运行成功！”);
 	}
 }
 
